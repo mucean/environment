@@ -1,0 +1,7 @@
+[push]
+	default = simple
+[core]
+	editor = vim
+[alias]
+	st = status
+	co = checkout
